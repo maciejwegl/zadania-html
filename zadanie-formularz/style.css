@@ -1,0 +1,47 @@
+
+.form {
+    background-color: rgba(62, 61, 60, 0.821);
+    color: azure;
+    width: 30%;
+    padding: 30px 0;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.firstName {
+    font-size: 20px;
+}
+
+.lastName {
+    font-size: 20px;
+}
+
+.firstNameForm {
+    margin: 10px;
+    padding: 6px;
+}
+
+.lastNameForm {
+    margin: 10px;
+    padding: 6px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 25px 5px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 600ms;
+}
+
+button:hover {
+    background-color: black;
+    color: azure;
+}
+
